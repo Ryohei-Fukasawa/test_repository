@@ -14,9 +14,11 @@ import model.TestPointModel;
 public class Execute {
 
 	public static void main(String[] args) {
+		//      偶数プログラム
 		//		TestService testService = new TestService();
 		//		testService.execute();
-		//
+
+		//				パス解決
 		//		File file = new File("C:\\TEMP\\お試しデータ.csv");
 		//		String str = file.getAbsolutePath();
 		//		System.out.println("pass : " + str);
